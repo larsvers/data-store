@@ -3,5 +3,5 @@
 Repo for dataset. Link like so:
 
 ```
-https://raw.githubusercontent.com/larsvers/image-store/master/{folder}/{dataset-name}.{file-extension}
+https://raw.githubusercontent.com/larsvers/data-store/master/{folder}/{dataset-name}
 ```
