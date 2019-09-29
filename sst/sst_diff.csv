@@ -1,0 +1,65 @@
+country,country_code,region,sst_diff
+Albania,ALB,European,0.7438332500000016
+Algeria,DZA,African,0.07477762999999982
+Angola,AGO,African,-0.29122207999999716
+Argenti,ARG,Americas,0.022809529999999967
+Australia,AUS,Western Pacific,0.4309167500000015
+Bangladesh,BGD,South-East Asian,0.05785725999999869
+Barbados,BRB,Americas,-0.09041670999999951
+Belize,BLZ,Americas,-0.21100009000000242
+Benin,BEN,African,-0.13566639999999808
+Bosnia and Herzegovi,BIH,European,0.35200030000000027
+Brazil,BRA,Americas,-0.19275018999999816
+Bulgaria,BGR,European,2.871111090000001
+Cabo Verde,CPV,African,-0.5719442900000011
+Cada,CAN,Americas,0.5611109899999995
+Cameroon,CMR,African,-0.04966699999999946
+Chi,CHN,Western Pacific,1.5109524199999989
+Chile,CHL,Americas,0.9380158499999993
+Comoros,COM,African,0.02166666000000106
+Cook Islands,COK,Western Pacific,-0.21466617999999826
+Cuba,CUB,Americas,-0.12600030999999845
+Djibouti,DJI,Eastern Mediterranean,-0.444666790000003
+Dominica,DMA,Americas,-0.16999990000000054
+Dominican Republic,DOM,Americas,-0.32488869000000165
+Ecuador,ECU,Americas,0.4203332900000021
+El Salvador,SLV,Americas,-0.44616670999999997
+Equatorial Guinea,GNQ,African,-0.11716644999999914
+Estonia,EST,European,2.9384829629999984
+Fiji,FJI,Western Pacific,-0.22616676999999896
+Finland,FIN,European,3.5377777629999994
+Germany,DEU,European,1.6621665970000006
+Greece,GRC,European,0.46933303000000137
+Guatemala,GTM,Americas,-0.26733312
+Haiti,HTI,Americas,-0.2893332999999991
+Honduras,HND,Americas,-0.4471111299999997
+Indonesia,IDN,South-East Asian,-0.07794458000000049
+"Iran, Islamic Republic of",IRN,Eastern Mediterranean,2.6436505200000013
+Italy,ITA,European,0.8361332200000007
+Jamaica,JAM,Americas,-0.2276665599999994
+Kenya,KEN,African,-0.09550006999999994
+Kuwait,KWT,Eastern Mediterranean,2.5518335000000008
+Malta,MLT,European,0.40033323999999837
+Mauritania,MRT,African,-1.3021664699999995
+mibia,M,African,-0.08037488000000081
+Myanmar,MMR,South-East Asian,0.2272917800000016
+Netherlands,NLD,European,1.5983333799999997
+Nicaragua,NIC,Americas,-0.4841665000000006
+Nigeria,NGA,African,0.4119998900000006
+Norway,NOR,European,1.2380391509999997
+Oman,OMN,Eastern Mediterranean,0.09326871000000025
+Pakistan,PAK,Eastern Mediterranean,0.06603927000000098
+Peru,PER,Americas,0.20877798999999797
+Philippines,PHL,Western Pacific,0.36829407000000103
+Portugal,PRT,European,-0.4614999599999976
+Qatar,QAT,Eastern Mediterranean,1.056888879999999
+Republic of Korea,KOR,Western Pacific,0.892500069999997
+Saint Kitts and Nevis,K,Americas,-0.06299994999999825
+Saudi Arabia,SAU,Eastern Mediterranean,0.7925998800000009
+Senegal,SEN,African,-0.9868886500000009
+Spain,ESP,European,0.10488898000000191
+Surime,SUR,Americas,0.04333339999999808
+Trinidad and Tobago,TTO,Americas,-0.16233320000000262
+Tuvalu,TUV,Western Pacific,-0.40333306000000135
+United Arab Emirates,ARE,Eastern Mediterranean,0.6180831600000012
+United Kingdom of Great Britain and Northern Ireland,GBR,European,-0.546055560000001
