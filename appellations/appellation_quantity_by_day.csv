@@ -1,0 +1,2029 @@
+pick_date,appellation_new,load_quantity
+2016-08-11,Santa Maria Valley,20
+2016-08-12,Los Carneros,21
+2016-08-15,Santa Maria Valley,68
+2016-08-16,Alexander Valley,7
+2016-08-16,Santa Maria Valley,68
+2016-08-17,Los Carneros,26.5
+2016-08-17,Santa Maria Valley,88
+2016-08-18,Alexander Valley,12
+2016-08-18,Calistoga,14.4
+2016-08-18,Santa Maria Valley,107
+2016-08-18,Yountville,10
+2016-08-19,Alexander Valley,16
+2016-08-19,Calistoga,63.1
+2016-08-19,Los Carneros,13.5
+2016-08-19,Paso Robles,0
+2016-08-19,Rutherford,5.1
+2016-08-19,Santa Maria Valley,117
+2016-08-19,Sta. Rita Hills,1.5
+2016-08-20,Calistoga,40
+2016-08-20,Santa Maria Valley,59
+2016-08-22,Calistoga,47.1
+2016-08-22,Los Carneros,12
+2016-08-22,Rutherford,5.1
+2016-08-22,Santa Maria Valley,156.3
+2016-08-23,Calistoga,69
+2016-08-23,Santa Maria Valley,132
+2016-08-24,Calistoga,17.75
+2016-08-24,Los Carneros,49.5
+2016-08-24,Rutherford,5.1
+2016-08-24,Santa Maria Valley,155
+2016-08-24,Sta. Rita Hills,13.72
+2016-08-25,Alexander Valley,9
+2016-08-25,Calistoga,43.625
+2016-08-25,Rutherford,5.4
+2016-08-25,Santa Maria Valley,144
+2016-08-25,Sta. Rita Hills,25.07
+2016-08-26,Alexander Valley,30
+2016-08-26,Los Carneros,21
+2016-08-26,Santa Maria Valley,116
+2016-08-26,Sta. Rita Hills,13.8
+2016-08-29,Alexander Valley,30
+2016-08-29,Calistoga,5.25
+2016-08-29,Happy Canyon of Santa Barbara,60
+2016-08-29,Los Carneros,63
+2016-08-29,Oak Knoll District of Napa Valley,20
+2016-08-29,Santa Maria Valley,93
+2016-08-30,Alexander Valley,11
+2016-08-30,Happy Canyon of Santa Barbara,30
+2016-08-30,Los Carneros,40
+2016-08-30,Oak Knoll District of Napa Valley,43
+2016-08-30,Rutherford,8.4
+2016-08-30,Santa Maria Valley,108
+2016-08-30,Sta. Rita Hills,1.75
+2016-08-31,Los Carneros,107
+2016-08-31,Oak Knoll District of Napa Valley,25
+2016-08-31,Rutherford,25
+2016-08-31,Santa Maria Valley,108
+2016-08-31,St. Helena,14.35
+2016-08-31,Sta. Rita Hills,23.23
+2016-09-01,Alexander Valley,20
+2016-09-01,Calistoga,12
+2016-09-01,Los Carneros,54
+2016-09-01,Oak Knoll District of Napa Valley,46
+2016-09-01,Rutherford,6.6
+2016-09-01,Santa Maria Valley,216
+2016-09-02,Los Carneros,35
+2016-09-02,Oakville,19
+2016-09-02,Rutherford,15
+2016-09-02,Santa Maria Valley,60
+2016-09-02,St. Helena,1
+2016-09-03,Los Carneros,31.5
+2016-09-03,Paso Robles,0
+2016-09-05,Los Carneros,47
+2016-09-05,Santa Maria Valley,92
+2016-09-06,Los Carneros,29.5
+2016-09-06,Russian River Valley,0
+2016-09-06,Santa Maria Valley,108
+2016-09-06,St. Helena,13
+2016-09-07,Happy Canyon of Santa Barbara,50
+2016-09-07,Los Carneros,42.5
+2016-09-07,Russian River Valley,0
+2016-09-07,Rutherford,41.5
+2016-09-07,Santa Maria Valley,48
+2016-09-08,Happy Canyon of Santa Barbara,25
+2016-09-08,Los Carneros,6.5
+2016-09-08,Oak Knoll District of Napa Valley,12
+2016-09-08,Paso Robles,8
+2016-09-08,Petaluma Gap,0
+2016-09-08,Russian River Valley,0
+2016-09-08,Santa Maria Valley,49
+2016-09-08,Sonoma Valley,0
+2016-09-08,Yountville,0
+2016-09-09,Calistoga,0
+2016-09-09,Happy Canyon of Santa Barbara,28
+2016-09-09,Los Carneros,0
+2016-09-09,Oak Knoll District of Napa Valley,0
+2016-09-09,Paso Robles,20
+2016-09-09,St. Helena,0
+2016-09-09,Stags Leap District,0
+2016-09-09,Yountville,20
+2016-09-10,Calistoga,0
+2016-09-10,Los Carneros,0
+2016-09-10,Oakville,52
+2016-09-12,Alexander Valley,0
+2016-09-12,Happy Canyon of Santa Barbara,62
+2016-09-12,Knights Valley,0
+2016-09-12,Mendocino,0
+2016-09-12,Santa Maria Valley,0
+2016-09-12,Sonoma Valley,0
+2016-09-12,St. Helena,0
+2016-09-12,Stags Leap District,0
+2016-09-13,Alexander Valley,0
+2016-09-13,Calistoga,0
+2016-09-13,Happy Canyon of Santa Barbara,24
+2016-09-13,Los Carneros,0
+2016-09-13,Oak Knoll District of Napa Valley,0
+2016-09-13,Oakville,0
+2016-09-13,Santa Maria Valley,0
+2016-09-13,Stags Leap District,0
+2016-09-13,Yamhill-Carlton,12
+2016-09-13,Yountville,0
+2016-09-14,Alexander Valley,0
+2016-09-14,Happy Canyon of Santa Barbara,0
+2016-09-14,Los Carneros,0
+2016-09-14,Oak Knoll District of Napa Valley,0
+2016-09-14,Santa Maria Valley,24
+2016-09-14,Stags Leap District,0
+2016-09-15,Alexander Valley,0
+2016-09-15,Happy Canyon of Santa Barbara,0
+2016-09-15,Los Carneros,0
+2016-09-15,Oak Knoll District of Napa Valley,0
+2016-09-15,Santa Maria Valley,0
+2016-09-16,Alexander Valley,0
+2016-09-16,Big Valley District-Lake County,0
+2016-09-16,Happy Canyon of Santa Barbara,0
+2016-09-16,Los Carneros,0
+2016-09-16,Paso Robles,17
+2016-09-16,Santa Maria Valley,0
+2016-09-16,Sonoma Valley,0
+2016-09-16,St. Helena,0
+2016-09-17,Alexander Valley,0
+2016-09-17,Los Carneros,0
+2016-09-17,Yountville,0
+2016-09-19,Alexander Valley,0
+2016-09-19,Big Valley District-Lake County,0
+2016-09-19,Calistoga,0
+2016-09-19,Coombsville,0
+2016-09-19,Dry Creek Valley,0
+2016-09-19,Happy Canyon of Santa Barbara,0
+2016-09-19,Los Carneros,0
+2016-09-19,Oak Knoll District of Napa Valley,0
+2016-09-19,Oakville,0
+2016-09-19,Paso Robles,10
+2016-09-19,Petaluma Gap,0
+2016-09-19,Rutherford,0
+2016-09-19,Sonoma Valley,0
+2016-09-20,Alexander Valley,0
+2016-09-20,Calistoga,0
+2016-09-20,Happy Canyon of Santa Barbara,0
+2016-09-20,Los Carneros,0
+2016-09-20,Oak Knoll District of Napa Valley,0
+2016-09-20,Oakville,0
+2016-09-20,Paso Robles,0
+2016-09-20,Rutherford,0
+2016-09-20,St. Helena,0
+2016-09-21,Alexander Valley,0
+2016-09-21,Calistoga,0
+2016-09-21,Coombsville,0
+2016-09-21,Dry Creek Valley,0
+2016-09-21,Happy Canyon of Santa Barbara,0
+2016-09-21,Los Carneros,0
+2016-09-21,Oak Knoll District of Napa Valley,0
+2016-09-21,Oakville,0
+2016-09-21,St. Helena,0
+2016-09-21,Yountville,0
+2016-09-22,Alexander Valley,0
+2016-09-22,Calistoga,0
+2016-09-22,Happy Canyon of Santa Barbara,0
+2016-09-22,Howell Mountain,0
+2016-09-22,Los Carneros,5
+2016-09-22,Oakville,0
+2016-09-22,Paso Robles,0
+2016-09-22,Rutherford,0
+2016-09-22,St. Helena,0
+2016-09-22,Stags Leap District,0
+2016-09-23,Alexander Valley,0
+2016-09-23,Calistoga,0
+2016-09-23,Happy Canyon of Santa Barbara,0
+2016-09-23,Howell Mountain,0
+2016-09-23,Los Carneros,0
+2016-09-23,Mt. Veeder,0
+2016-09-23,Napa Valley,0
+2016-09-23,Oakville,0
+2016-09-23,Paso Robles,0
+2016-09-23,Rutherford,0
+2016-09-23,Santa Maria Valley,0
+2016-09-23,St. Helena,0
+2016-09-23,Stags Leap District,0
+2016-09-24,Alexander Valley,0
+2016-09-24,Calistoga,0
+2016-09-24,Dry Creek Valley,0
+2016-09-24,Knights Valley,0
+2016-09-24,Los Carneros,0
+2016-09-24,Mt. Veeder,0
+2016-09-24,Napa Valley,0
+2016-09-24,Oakville,0
+2016-09-24,Rutherford,0
+2016-09-24,St. Helena,0
+2016-09-24,Stags Leap District,0
+2016-09-26,Alexander Valley,0
+2016-09-26,Calistoga,0
+2016-09-26,Diamond Mountain District,0
+2016-09-26,Los Carneros,0
+2016-09-26,Moon Mountain District Sonoma County,0
+2016-09-26,Napa Valley,0
+2016-09-26,Paso Robles,0
+2016-09-26,St. Helena,0
+2016-09-26,Stags Leap District,0
+2016-09-27,Alexander Valley,0
+2016-09-27,Calistoga,0
+2016-09-27,Diamond Mountain District,0
+2016-09-27,Knights Valley,0
+2016-09-27,Los Carneros,0
+2016-09-27,Napa Valley,0
+2016-09-27,Oak Knoll District of Napa Valley,0
+2016-09-27,Oakville,0
+2016-09-27,Paso Robles,0
+2016-09-27,Rutherford,0
+2016-09-27,San Miguel District,0
+2016-09-27,Spring Mountain District,0
+2016-09-27,Stags Leap District,0
+2016-09-28,Alexander Valley,0
+2016-09-28,Calistoga,0
+2016-09-28,Diamond Mountain District,0
+2016-09-28,Los Carneros,0
+2016-09-28,Moon Mountain District Sonoma County,0
+2016-09-28,Mt. Veeder,0
+2016-09-28,Napa Valley,0
+2016-09-28,Oak Knoll District of Napa Valley,0
+2016-09-28,Oakville,0
+2016-09-28,Paso Robles,0
+2016-09-28,San Miguel District,0
+2016-09-28,Sonoma Valley,0
+2016-09-28,Stags Leap District,0
+2016-09-28,Yountville,0
+2016-09-29,Calistoga,0
+2016-09-29,Happy Canyon of Santa Barbara,0
+2016-09-29,Knights Valley,0
+2016-09-29,Los Carneros,0
+2016-09-29,Oakville,0
+2016-09-29,Paso Robles,0
+2016-09-29,Rutherford,0
+2016-09-29,San Miguel District,0
+2016-09-29,Sonoma Valley,0
+2016-09-29,St. Helena,0
+2016-09-29,Stags Leap District,0
+2016-09-30,Happy Canyon of Santa Barbara,0
+2016-09-30,Knights Valley,0
+2016-09-30,Los Carneros,0
+2016-09-30,Moon Mountain District Sonoma County,0
+2016-09-30,Mt. Veeder,0
+2016-09-30,Oak Knoll District of Napa Valley,0
+2016-09-30,Oakville,0
+2016-09-30,Paso Robles,0
+2016-09-30,Rutherford,0
+2016-09-30,Sonoma Valley,0
+2016-09-30,St. Helena,0
+2016-10-01,Alexander Valley,0
+2016-10-01,Atlas Peak,0
+2016-10-01,Calistoga,0
+2016-10-01,Knights Valley,0
+2016-10-01,Los Carneros,0
+2016-10-01,Oakville,0
+2016-10-01,Rutherford,0
+2016-10-01,St. Helena,0
+2016-10-03,Calistoga,0
+2016-10-03,Diamond Mountain District,0
+2016-10-03,Happy Canyon of Santa Barbara,0
+2016-10-03,Knights Valley,0
+2016-10-03,Los Carneros,0
+2016-10-03,Mendocino,0
+2016-10-03,Oakville,0
+2016-10-03,Paso Robles,0
+2016-10-03,Rutherford,0
+2016-10-03,St. Helena,0
+2016-10-03,Stags Leap District,0
+2016-10-04,Alexander Valley,0
+2016-10-04,Calistoga,0
+2016-10-04,Diamond Mountain District,0
+2016-10-04,Knights Valley,0
+2016-10-04,Mendocino,0
+2016-10-04,Moon Mountain District Sonoma County,0
+2016-10-04,Napa Valley,0
+2016-10-04,Oakville,0
+2016-10-04,Paso Robles,0
+2016-10-04,Rutherford,0
+2016-10-04,San Miguel District,0
+2016-10-04,St. Helena,0
+2016-10-04,Stags Leap District,0
+2016-10-05,Diamond Mountain District,0
+2016-10-05,Howell Mountain,0
+2016-10-05,Napa Valley,0
+2016-10-05,Oakville,0
+2016-10-05,Paso Robles,0
+2016-10-05,Rutherford,15
+2016-10-05,San Miguel District,0
+2016-10-05,Sonoma Valley,0
+2016-10-05,St. Helena,0
+2016-10-06,Alexander Valley,0
+2016-10-06,Diamond Mountain District,0
+2016-10-06,Howell Mountain,0
+2016-10-06,Knights Valley,0
+2016-10-06,Los Carneros,0
+2016-10-06,Moon Mountain District Sonoma County,0
+2016-10-06,Oak Knoll District of Napa Valley,0
+2016-10-06,Paso Robles,0
+2016-10-06,Rutherford,0
+2016-10-07,Alexander Valley,0
+2016-10-07,Calistoga,0
+2016-10-07,Diamond Mountain District,0
+2016-10-07,Howell Mountain,0
+2016-10-07,Knights Valley,0
+2016-10-07,Los Carneros,0
+2016-10-07,Oakville,0
+2016-10-07,Paso Robles,0
+2016-10-07,Rutherford,0
+2016-10-07,Sonoma Valley,0
+2016-10-08,Alexander Valley,0
+2016-10-08,Diamond Mountain District,0
+2016-10-08,Howell Mountain,0
+2016-10-08,Knights Valley,0
+2016-10-08,Oakville,0
+2016-10-08,Rutherford,0
+2016-10-08,Yountville,0
+2016-10-10,Diamond Mountain District,0
+2016-10-10,Howell Mountain,0
+2016-10-10,Knights Valley,0
+2016-10-10,Moon Mountain District Sonoma County,0
+2016-10-10,Oakville,0
+2016-10-10,Paso Robles,0
+2016-10-10,Rutherford,0
+2016-10-10,Sonoma Valley,0
+2016-10-10,Spring Mountain District,0
+2016-10-10,St. Helena,0
+2016-10-10,Stags Leap District,0
+2016-10-11,Atlas Peak,0
+2016-10-11,Calistoga,0
+2016-10-11,Diamond Mountain District,0
+2016-10-11,Knights Valley,0
+2016-10-11,Oakville,0
+2016-10-11,Paso Robles,0
+2016-10-11,Rutherford,0
+2016-10-11,St. Helena,0
+2016-10-12,Calistoga,0
+2016-10-12,Diamond Mountain District,0
+2016-10-12,Howell Mountain,0
+2016-10-12,Knights Valley,0
+2016-10-12,Los Carneros,0
+2016-10-12,Oak Knoll District of Napa Valley,0
+2016-10-12,Paso Robles,0
+2016-10-12,Rutherford,0
+2016-10-12,Sonoma Valley,0
+2016-10-12,St. Helena,0
+2016-10-13,Howell Mountain,0
+2016-10-13,Knights Valley,0
+2016-10-13,Paso Robles,0
+2016-10-13,Rutherford,0
+2016-10-13,Sonoma Valley,0
+2016-10-13,Spring Mountain District,0
+2016-10-13,St. Helena,0
+2016-10-13,Yountville,0
+2016-10-14,Paso Robles,0
+2016-10-17,Paso Robles,0
+2016-10-18,Paso Robles,0
+2016-10-18,Rutherford,0
+2016-10-19,Knights Valley,0
+2016-10-19,Paso Robles,0
+2016-10-19,Rutherford,0
+2016-10-19,St. Helena,0
+2016-10-20,Knights Valley,0
+2016-10-20,Paso Robles,0
+2016-10-20,St. Helena,0
+2016-10-21,Howell Mountain,0
+2016-10-21,Knights Valley,0
+2016-10-21,Paso Robles,0
+2016-10-21,Rutherford,0
+2016-10-21,Spring Mountain District,0
+2016-10-21,Yountville,0
+2016-10-24,Paso Robles,0
+2016-10-24,San Miguel District,0
+2016-10-25,Paso Robles,0
+2016-10-25,San Miguel District,0
+2016-11-11,Alexander Valley,0
+2017-08-01,Happy Canyon of Santa Barbara,0
+2017-08-01,Santa Maria Valley,44
+2017-08-14,Happy Canyon of Santa Barbara,37.5
+2017-08-15,Yountville,88.4
+2017-08-16,Yountville,73
+2017-08-17,Yountville,60
+2017-08-18,Los Carneros,16
+2017-08-18,Santa Maria Valley,48
+2017-08-21,Happy Canyon of Santa Barbara,20
+2017-08-21,Santa Maria Valley,96
+2017-08-22,Calistoga,11
+2017-08-22,Santa Maria Valley,91
+2017-08-23,San Lucas,8
+2017-08-23,Santa Maria Valley,72
+2017-08-24,Calistoga,20
+2017-08-24,Rutherford,16
+2017-08-24,San Lucas,48
+2017-08-24,Santa Maria Valley,96
+2017-08-25,Calistoga,27.75
+2017-08-25,Happy Canyon of Santa Barbara,23
+2017-08-25,Oak Knoll District of Napa Valley,32
+2017-08-25,Rutherford,16
+2017-08-25,San Lucas,48
+2017-08-28,Alexander Valley,44
+2017-08-28,California Shenandoah Valley,96
+2017-08-28,Calistoga,50
+2017-08-28,Clarksburg,240
+2017-08-28,Los Carneros,22.14
+2017-08-28,Oak Knoll District of Napa Valley,13
+2017-08-28,Rutherford,17.509999999999998
+2017-08-28,San Lucas,48
+2017-08-28,Santa Maria Valley,47
+2017-08-29,Alexander Valley,44
+2017-08-29,California Shenandoah Valley,96
+2017-08-29,Calistoga,70
+2017-08-29,Clarksburg,240
+2017-08-29,Happy Canyon of Santa Barbara,48
+2017-08-29,Los Carneros,12.8
+2017-08-29,Oak Knoll District of Napa Valley,32
+2017-08-29,Rutherford,14.4
+2017-08-29,San Lucas,48
+2017-08-29,Santa Maria Valley,59
+2017-08-29,Sta. Rita Hills,3
+2017-08-30,Alexander Valley,43.4
+2017-08-30,California Shenandoah Valley,96
+2017-08-30,Calistoga,41.45
+2017-08-30,Clarksburg,240
+2017-08-30,Happy Canyon of Santa Barbara,48
+2017-08-30,Los Carneros,34.63
+2017-08-30,Oak Knoll District of Napa Valley,48.4
+2017-08-30,Paso Robles,24
+2017-08-30,Rutherford,26.55
+2017-08-30,San Lucas,48
+2017-08-30,Santa Maria Valley,97
+2017-08-30,Sta. Rita Hills,15.83
+2017-08-31,Alexander Valley,13.2
+2017-08-31,California Shenandoah Valley,48
+2017-08-31,Calistoga,50.5
+2017-08-31,Clarksburg,96
+2017-08-31,Happy Canyon of Santa Barbara,36
+2017-08-31,Los Carneros,54.42
+2017-08-31,Mokelumne River,48
+2017-08-31,Oak Knoll District of Napa Valley,8
+2017-08-31,Paso Robles,24
+2017-08-31,Rutherford,24.900000000000002
+2017-08-31,San Lucas,68
+2017-08-31,Santa Maria Valley,152
+2017-08-31,Sta. Rita Hills,9.02
+2017-09-01,Calistoga,10
+2017-09-01,Clarksburg,192
+2017-09-01,Happy Canyon of Santa Barbara,196
+2017-09-01,Jahant,192
+2017-09-01,Los Carneros,128.94
+2017-09-01,Oak Knoll District of Napa Valley,40
+2017-09-01,Paso Robles,144
+2017-09-01,San Lucas,60
+2017-09-01,Santa Maria Valley,176
+2017-09-01,St. Helena,52
+2017-09-02,Knights Valley,28
+2017-09-02,Los Carneros,147.7
+2017-09-02,Paso Robles,10
+2017-09-02,Santa Maria Valley,100
+2017-09-02,Stags Leap District,30
+2017-09-03,Mendocino,24
+2017-09-03,Yountville,0
+2017-09-04,Clarksburg,96
+2017-09-04,Jahant,60
+2017-09-04,Los Carneros,123.36
+2017-09-04,Paso Robles,42
+2017-09-04,Santa Maria Valley,120
+2017-09-04,Sloughhouse,192
+2017-09-04,Sta. Rita Hills,13.7
+2017-09-05,Borden Ranch,168
+2017-09-05,Clarksburg,24
+2017-09-05,Happy Canyon of Santa Barbara,63
+2017-09-05,Jahant,144
+2017-09-05,Los Carneros,224.1
+2017-09-05,Mokelumne River,144
+2017-09-05,Oak Knoll District of Napa Valley,40
+2017-09-05,Petaluma Gap,3.5
+2017-09-05,San Lucas,0
+2017-09-05,Santa Maria Valley,80
+2017-09-05,Sloughhouse,24
+2017-09-05,Sonoma Valley,8
+2017-09-05,Stags Leap District,31.5
+2017-09-05,Yountville,8
+2017-09-06,California Shenandoah Valley,96
+2017-09-06,Clarksburg,72
+2017-09-06,Clements Hills,72
+2017-09-06,Los Carneros,211.95
+2017-09-06,Mokelumne River,48
+2017-09-06,Oak Knoll District of Napa Valley,35
+2017-09-06,Sloughhouse,144
+2017-09-07,Alexander Valley,24.8
+2017-09-07,Calistoga,53.5
+2017-09-07,Clarksburg,96
+2017-09-07,Clements Hills,108
+2017-09-07,Happy Canyon of Santa Barbara,39
+2017-09-07,Los Carneros,206.49
+2017-09-07,Mokelumne River,144
+2017-09-07,Oak Knoll District of Napa Valley,28
+2017-09-07,Petaluma Gap,7.5
+2017-09-07,Russian River Valley,25.5
+2017-09-07,Santa Maria Valley,20
+2017-09-07,Sloughhouse,96
+2017-09-07,St. Helena,6
+2017-09-08,Alexander Valley,57.8
+2017-09-08,Calistoga,35
+2017-09-08,Clarksburg,84
+2017-09-08,Happy Canyon of Santa Barbara,72
+2017-09-08,Jahant,120
+2017-09-08,Los Carneros,235.64000000000001
+2017-09-08,Mokelumne River,240
+2017-09-08,Mt. Veeder,2
+2017-09-08,Oak Knoll District of Napa Valley,75
+2017-09-08,Rutherford,4
+2017-09-08,Santa Maria Valley,64
+2017-09-08,Sonoma Valley,17.3
+2017-09-08,St. Helena,4
+2017-09-09,Alexander Valley,60
+2017-09-09,Happy Canyon of Santa Barbara,72
+2017-09-09,Los Carneros,233.66
+2017-09-09,Mokelumne River,96
+2017-09-09,Oak Knoll District of Napa Valley,83
+2017-09-09,Oakville,33.45
+2017-09-09,Santa Maria Valley,28
+2017-09-09,Stags Leap District,10
+2017-09-11,Alexander Valley,44
+2017-09-11,Happy Canyon of Santa Barbara,48
+2017-09-11,Los Carneros,165.96
+2017-09-11,Mokelumne River,72
+2017-09-11,Oak Knoll District of Napa Valley,23
+2017-09-11,Oakville,191
+2017-09-11,Paicines,48
+2017-09-11,Paso Robles,0
+2017-09-11,Rutherford,1.8
+2017-09-11,San Lucas,0
+2017-09-11,Santa Maria Valley,96
+2017-09-11,Stags Leap District,12
+2017-09-12,Alexander Valley,36.1
+2017-09-12,Calistoga,20
+2017-09-12,Coombsville,18
+2017-09-12,Dry Creek Valley,18
+2017-09-12,Happy Canyon of Santa Barbara,91
+2017-09-12,Los Carneros,88.23
+2017-09-12,Oak Knoll District of Napa Valley,10
+2017-09-12,Oakville,110
+2017-09-12,Paicines,96
+2017-09-12,Paso Robles,0
+2017-09-12,San Lucas,0
+2017-09-12,San Miguel District,48
+2017-09-12,Santa Maria Valley,96
+2017-09-12,Sonoma Valley,5.9
+2017-09-12,St. Helena,24.3
+2017-09-13,Alexander Valley,24
+2017-09-13,Calistoga,100
+2017-09-13,Dry Creek Valley,10
+2017-09-13,Happy Canyon of Santa Barbara,48
+2017-09-13,Los Carneros,25
+2017-09-13,Oak Knoll District of Napa Valley,53
+2017-09-13,Oakville,99
+2017-09-13,Paicines,96
+2017-09-13,Paso Robles,0
+2017-09-13,Rutherford,7.5
+2017-09-13,San Lucas,48
+2017-09-13,San Miguel District,72
+2017-09-13,Santa Maria Valley,65
+2017-09-14,Alexander Valley,20
+2017-09-14,Calistoga,6
+2017-09-14,Happy Canyon of Santa Barbara,107
+2017-09-14,Los Carneros,14.9
+2017-09-14,Oak Knoll District of Napa Valley,43
+2017-09-14,Oakville,30
+2017-09-14,Paicines,144
+2017-09-14,Paso Robles,44
+2017-09-14,San Lucas,0
+2017-09-14,Santa Maria Valley,64
+2017-09-14,St. Helena,35.8
+2017-09-14,Yountville,7
+2017-09-15,Alexander Valley,19.1
+2017-09-15,Diamond Mountain District,8
+2017-09-15,Happy Canyon of Santa Barbara,46
+2017-09-15,Los Carneros,62.51
+2017-09-15,Oak Knoll District of Napa Valley,36
+2017-09-15,Paicines,144
+2017-09-15,Paso Robles,56
+2017-09-15,Santa Maria Valley,87
+2017-09-15,St. Helena,14
+2017-09-15,Stags Leap District,4
+2017-09-16,Los Carneros,38.25
+2017-09-16,Mt. Veeder,6.5
+2017-09-16,Sonoma Valley,3
+2017-09-18,Alexander Valley,11
+2017-09-18,Big Valley District-Lake County,48
+2017-09-18,Calistoga,28.35
+2017-09-18,Knights Valley,32.2
+2017-09-18,Lodi,96
+2017-09-18,Los Carneros,46.35
+2017-09-18,Mokelumne River,144
+2017-09-18,Moon Mountain District Sonoma County,3.5
+2017-09-18,Oak Knoll District of Napa Valley,13
+2017-09-18,Paicines,144
+2017-09-18,Paso Robles,36
+2017-09-18,San Lucas,96
+2017-09-18,Santa Maria Valley,40
+2017-09-19,Alexander Valley,15.700000000000001
+2017-09-19,Big Valley District-Lake County,48
+2017-09-19,Calistoga,20
+2017-09-19,Clarksburg,24
+2017-09-19,Lodi,96
+2017-09-19,Los Carneros,33.16
+2017-09-19,Mokelumne River,144
+2017-09-19,Oakville,49
+2017-09-19,Paicines,120
+2017-09-19,Paso Robles,32
+2017-09-19,San Lucas,191
+2017-09-19,Santa Maria Valley,42
+2017-09-20,Alexander Valley,23.5
+2017-09-20,Big Valley District-Lake County,40
+2017-09-20,Calistoga,49.4
+2017-09-20,Happy Canyon of Santa Barbara,30
+2017-09-20,Lodi,96
+2017-09-20,Los Carneros,95.32
+2017-09-20,Mokelumne River,120
+2017-09-20,Napa Valley,7
+2017-09-20,Paicines,192
+2017-09-20,Petaluma Gap,3
+2017-09-20,San Lucas,180
+2017-09-20,Sonoma Valley,9.25
+2017-09-21,Calistoga,50
+2017-09-21,Clarksburg,72
+2017-09-21,Knights Valley,15
+2017-09-21,Los Carneros,75.32000000000001
+2017-09-21,Napa Valley,15
+2017-09-21,Oakville,20
+2017-09-21,Paicines,144
+2017-09-21,Red Hills Lake County,48
+2017-09-21,San Lucas,72
+2017-09-21,Santa Maria Valley,48
+2017-09-21,Sonoma Valley,5
+2017-09-22,Alexander Valley,11
+2017-09-22,Big Valley District-Lake County,24
+2017-09-22,Calistoga,36.5
+2017-09-22,Clarksburg,144
+2017-09-22,Happy Canyon of Santa Barbara,24
+2017-09-22,Lodi,60
+2017-09-22,Los Carneros,23
+2017-09-22,Moon Mountain District Sonoma County,7
+2017-09-22,Napa Valley,12
+2017-09-22,Paicines,144
+2017-09-22,Paso Robles,28
+2017-09-22,Red Hills Lake County,40
+2017-09-22,San Lucas,72
+2017-09-23,Calistoga,22
+2017-09-23,Napa Valley,22
+2017-09-25,Big Valley District-Lake County,24
+2017-09-25,Calistoga,42
+2017-09-25,Clarksburg,96
+2017-09-25,Clements Hills,48
+2017-09-25,Dry Creek Valley,16
+2017-09-25,Los Carneros,38.68
+2017-09-25,Mokelumne River,144
+2017-09-25,Napa Valley,22
+2017-09-25,Oakville,18
+2017-09-25,Paicines,116
+2017-09-25,Paso Robles,74
+2017-09-25,Rutherford,11
+2017-09-25,San Lucas,72
+2017-09-25,Yountville,14
+2017-09-26,Calistoga,25.1
+2017-09-26,Dry Creek Valley,9
+2017-09-26,Los Carneros,39.6
+2017-09-26,Mokelumne River,144
+2017-09-26,Oakville,16
+2017-09-26,Paicines,96
+2017-09-26,Paso Robles,36
+2017-09-26,Rutherford,8.1
+2017-09-26,San Lucas,72
+2017-09-26,St. Helena,93
+2017-09-27,Calistoga,51
+2017-09-27,Clarksburg,144
+2017-09-27,Mendocino,24
+2017-09-27,Mokelumne River,72
+2017-09-27,Moon Mountain District Sonoma County,10
+2017-09-27,Napa Valley,12
+2017-09-27,Oak Knoll District of Napa Valley,8
+2017-09-27,Oakville,41.8
+2017-09-27,Paicines,96
+2017-09-27,Paso Robles,92
+2017-09-27,San Lucas,96
+2017-09-27,Sonoma Valley,17.1
+2017-09-27,St. Helena,10
+2017-09-27,Stags Leap District,5
+2017-09-28,Calistoga,69
+2017-09-28,Clarksburg,72
+2017-09-28,Coombsville,7
+2017-09-28,Knights Valley,9
+2017-09-28,Mendocino,36
+2017-09-28,Oak Knoll District of Napa Valley,78
+2017-09-28,Paicines,96
+2017-09-28,Paso Robles,96
+2017-09-28,Rutherford,8
+2017-09-28,San Lucas,144
+2017-09-28,San Miguel District,48
+2017-09-28,St. Helena,11
+2017-09-29,Calistoga,88
+2017-09-29,High Valley,36
+2017-09-29,Los Carneros,53
+2017-09-29,Napa Valley,10
+2017-09-29,Oak Knoll District of Napa Valley,11
+2017-09-29,Oakville,45
+2017-09-29,Paicines,72
+2017-09-29,Paso Robles,54
+2017-09-29,Rutherford,33.835
+2017-09-29,San Lucas,216
+2017-09-29,San Miguel District,40
+2017-09-29,St. Helena,38
+2017-09-29,Stags Leap District,18
+2017-09-29,Yamhill-Carlton,12
+2017-09-30,Calistoga,35.8
+2017-09-30,Coombsville,9
+2017-09-30,Knights Valley,22
+2017-09-30,Napa Valley,6
+2017-09-30,Oakville,39
+2017-09-30,Paso Robles,22
+2017-09-30,Rutherford,22.8
+2017-09-30,Stags Leap District,28
+2017-10-02,Calistoga,50.5
+2017-10-02,Clements Hills,96
+2017-10-02,Coombsville,18
+2017-10-02,Knights Valley,38
+2017-10-02,Mokelumne River,144
+2017-10-02,Napa Valley,11
+2017-10-02,Oak Knoll District of Napa Valley,20
+2017-10-02,Oakville,20
+2017-10-02,Paicines,72
+2017-10-02,Paso Robles,84
+2017-10-02,Rutherford,56.128
+2017-10-02,San Lucas,120
+2017-10-02,Sonoma Valley,7.9
+2017-10-02,Stags Leap District,12
+2017-10-02,Yountville,23
+2017-10-03,Calistoga,74.5
+2017-10-03,Diamond Mountain District,17
+2017-10-03,Knights Valley,44.199999999999996
+2017-10-03,Mokelumne River,72
+2017-10-03,Moon Mountain District Sonoma County,17
+2017-10-03,Napa Valley,5
+2017-10-03,Oak Knoll District of Napa Valley,9
+2017-10-03,Oakville,16
+2017-10-03,Paicines,72
+2017-10-03,Paso Robles,63
+2017-10-03,Rutherford,7.62
+2017-10-03,San Lucas,0
+2017-10-03,Sonoma Valley,9.8
+2017-10-03,Stags Leap District,20
+2017-10-04,Calistoga,77.5
+2017-10-04,Clements Hills,96
+2017-10-04,Coombsville,24
+2017-10-04,Diamond Mountain District,4.5
+2017-10-04,Knights Valley,146.4
+2017-10-04,Los Carneros,52.4
+2017-10-04,Napa Valley,2
+2017-10-04,Oakville,29
+2017-10-04,Paicines,72
+2017-10-04,Paso Robles,134
+2017-10-04,Rutherford,24.375
+2017-10-04,San Lucas,96
+2017-10-04,Yountville,24
+2017-10-05,Clarksburg,23.5
+2017-10-05,High Valley,24
+2017-10-05,Knights Valley,106
+2017-10-05,Los Carneros,15
+2017-10-05,Moon Mountain District Sonoma County,6
+2017-10-05,Oakville,35
+2017-10-05,Paicines,72
+2017-10-05,Paso Robles,128
+2017-10-05,Rutherford,23.2
+2017-10-05,San Lucas,72
+2017-10-05,St. Helena,92.55
+2017-10-05,Stags Leap District,26
+2017-10-06,Calistoga,60.5
+2017-10-06,Clarksburg,23.5
+2017-10-06,Clements Hills,72
+2017-10-06,Knights Valley,70
+2017-10-06,Oakville,57.9
+2017-10-06,Paicines,72
+2017-10-06,Paso Robles,96
+2017-10-06,Rutherford,58.64
+2017-10-06,San Lucas,0
+2017-10-06,San Miguel District,36
+2017-10-06,St. Helena,99.5
+2017-10-06,Stags Leap District,10
+2017-10-07,Howell Mountain,9
+2017-10-07,Knights Valley,79.1
+2017-10-07,Mt. Veeder,9
+2017-10-07,Oakville,47
+2017-10-07,Paso Robles,0
+2017-10-07,Rutherford,104
+2017-10-07,St. Helena,50.3
+2017-10-09,Clements Hills,72
+2017-10-09,Mokelumne River,107
+2017-10-09,Oakville,36.6
+2017-10-09,Paicines,72
+2017-10-09,Paso Robles,228
+2017-10-09,Rutherford,20.25
+2017-10-09,San Lucas,72
+2017-10-09,San Miguel District,48
+2017-10-10,Paicines,96
+2017-10-10,Paso Robles,304
+2017-10-10,Rutherford,41.037
+2017-10-10,San Lucas,66
+2017-10-10,San Miguel District,48
+2017-10-11,Lodi,72
+2017-10-11,Paicines,96
+2017-10-11,Paso Robles,233
+2017-10-11,Rutherford,44.725
+2017-10-11,San Lucas,72
+2017-10-11,San Miguel District,48
+2017-10-12,Lodi,72
+2017-10-12,Paicines,72
+2017-10-12,Paso Robles,336
+2017-10-12,San Lucas,72
+2017-10-13,Lodi,72
+2017-10-13,Oakville,27
+2017-10-13,Paicines,72
+2017-10-13,Paso Robles,203
+2017-10-13,Rutherford,35.185
+2017-10-13,San Lucas,84
+2017-10-14,Howell Mountain,76
+2017-10-14,Oakville,45
+2017-10-14,Rutherford,69.975
+2017-10-15,Howell Mountain,137
+2017-10-15,Rutherford,88.11
+2017-10-15,St. Helena,27.5
+2017-10-16,Alta Mesa,144
+2017-10-16,Howell Mountain,126.5
+2017-10-16,Mokelumne River,144
+2017-10-16,Oakville,68
+2017-10-16,Paso Robles,82
+2017-10-16,Rutherford,111.082
+2017-10-16,San Lucas,72
+2017-10-16,Sonoma Valley,9
+2017-10-16,Stags Leap District,15
+2017-10-17,Alta Mesa,144
+2017-10-17,Calistoga,35
+2017-10-17,Knights Valley,60
+2017-10-17,Los Carneros,10
+2017-10-17,Mendocino,24
+2017-10-17,Mokelumne River,72
+2017-10-17,Oakville,17.9
+2017-10-17,Paso Robles,342
+2017-10-17,Rutherford,70.195
+2017-10-17,St. Helena,73.3
+2017-10-17,Yountville,13
+2017-10-18,Alexander Valley,30
+2017-10-18,Alta Mesa,144
+2017-10-18,Calistoga,56
+2017-10-18,Knights Valley,141.4
+2017-10-18,Mokelumne River,72
+2017-10-18,Napa Valley,38
+2017-10-18,Paicines,72
+2017-10-18,Paso Robles,202
+2017-10-18,Rutherford,84.825
+2017-10-18,Sonoma Valley,8.32
+2017-10-18,Spring Mountain District,6
+2017-10-18,St. Helena,85
+2017-10-18,Yountville,23
+2017-10-19,Alexander Valley,30
+2017-10-19,Calistoga,28
+2017-10-19,Coombsville,20
+2017-10-19,Diamond Mountain District,10.4
+2017-10-19,Knights Valley,136.3
+2017-10-19,Napa Valley,50
+2017-10-19,Oakville,12
+2017-10-19,Paso Robles,76
+2017-10-19,Rutherford,61.5
+2017-10-19,Sonoma Valley,51.95
+2017-10-19,Spring Mountain District,8.5
+2017-10-19,St. Helena,11
+2017-10-20,Alexander Valley,30
+2017-10-20,Coombsville,18
+2017-10-20,Howell Mountain,49.3
+2017-10-20,Knights Valley,237.6
+2017-10-20,Napa Valley,12
+2017-10-20,Paso Robles,56
+2017-10-20,Sonoma Valley,5.85
+2017-10-20,Spring Mountain District,14.72
+2017-10-20,St. Helena,30
+2017-10-20,Yountville,34
+2017-10-21,Coombsville,31
+2017-10-21,Diamond Mountain District,10.3
+2017-10-21,Howell Mountain,38.9
+2017-10-21,Knights Valley,181.2
+2017-10-21,Napa Valley,22
+2017-10-21,Rutherford,93.5
+2017-10-21,Spring Mountain District,10
+2017-10-21,St. Helena,30
+2017-10-23,Alta Mesa,108
+2017-10-23,Diamond Mountain District,50.3
+2017-10-23,Howell Mountain,36.5
+2017-10-23,Knights Valley,128
+2017-10-23,Mokelumne River,72
+2017-10-23,Mt. Veeder,8.2
+2017-10-23,Napa Valley,22
+2017-10-23,Paicines,48
+2017-10-23,Paso Robles,214
+2017-10-23,San Lucas,72
+2017-10-23,Spring Mountain District,10
+2017-10-23,St. Helena,48
+2017-10-24,Calistoga,0.5
+2017-10-24,Coombsville,12
+2017-10-24,Diamond Mountain District,32.67
+2017-10-24,Howell Mountain,7
+2017-10-24,Knights Valley,64.9
+2017-10-24,Mokelumne River,144
+2017-10-24,Napa Valley,7
+2017-10-24,Paicines,72
+2017-10-24,Paso Robles,146
+2017-10-24,San Lucas,144
+2017-10-25,Diamond Mountain District,32
+2017-10-25,Knights Valley,57.7
+2017-10-25,Mokelumne River,24
+2017-10-25,Paso Robles,122
+2017-10-25,Rutherford,38.69
+2017-10-25,San Lucas,142
+2017-10-25,Sonoma Valley,5.7
+2017-10-25,St. Helena,1.5
+2017-10-26,Clements Hills,72
+2017-10-26,Diamond Mountain District,46
+2017-10-26,Knights Valley,54.400000000000006
+2017-10-26,Napa Valley,20
+2017-10-26,Paso Robles,72
+2017-10-26,San Lucas,144
+2017-10-26,Sonoma Valley,14.7
+2017-10-27,Clements Hills,72
+2017-10-27,Diamond Mountain District,34
+2017-10-27,Paso Robles,108
+2017-10-27,San Lucas,216
+2017-10-30,San Lucas,399
+2017-10-31,San Lucas,459
+2017-11-01,San Lucas,826
+2017-11-02,San Lucas,196
+2017-11-08,Alexander Valley,2.5
+2017-11-14,Los Carneros,3.4
+2017-11-27,Rutherford,5.2
+2018-08-16,Los Carneros,13
+2018-08-20,Los Carneros,41.5
+2018-08-20,Mokelumne River,144
+2018-08-21,Los Carneros,38
+2018-08-21,Mokelumne River,144
+2018-08-22,Happy Canyon of Santa Barbara,35
+2018-08-22,Los Carneros,26
+2018-08-23,Happy Canyon of Santa Barbara,96
+2018-08-23,Los Carneros,15.66
+2018-08-23,Santa Maria Valley,20
+2018-08-23,Yountville,65
+2018-08-24,Calistoga,114
+2018-08-24,Happy Canyon of Santa Barbara,96
+2018-08-24,Santa Maria Valley,10
+2018-08-24,Yountville,57.5
+2018-08-27,Borden Ranch,160
+2018-08-27,California Shenandoah Valley,96
+2018-08-27,Calistoga,114
+2018-08-27,Los Carneros,37.05
+2018-08-27,Mokelumne River,72
+2018-08-27,Santa Maria Valley,90
+2018-08-28,Borden Ranch,72
+2018-08-28,California Shenandoah Valley,96
+2018-08-28,Calistoga,24
+2018-08-28,Mokelumne River,0
+2018-08-28,Santa Maria Valley,106
+2018-08-29,California Shenandoah Valley,144
+2018-08-29,Santa Maria Valley,127.5
+2018-08-29,St. Helena,0
+2018-08-29,Yountville,62.75
+2018-08-30,California Shenandoah Valley,96
+2018-08-30,Clarksburg,144
+2018-08-30,Santa Maria Valley,60
+2018-08-30,Yountville,68
+2018-08-31,Borden Ranch,144
+2018-08-31,Clarksburg,144
+2018-08-31,Mokelumne River,72
+2018-08-31,Rutherford,10.45
+2018-08-31,San Lucas,72
+2018-09-01,Los Carneros,0
+2018-09-01,Rutherford,18.1
+2018-09-03,Clarksburg,144
+2018-09-03,San Lucas,92
+2018-09-03,Santa Maria Valley,96
+2018-09-04,Calistoga,41.5
+2018-09-04,Clarksburg,144
+2018-09-04,Los Carneros,25.75
+2018-09-04,Rutherford,21.6
+2018-09-04,San Lucas,70
+2018-09-04,Santa Maria Valley,140
+2018-09-05,Calistoga,10.4
+2018-09-05,Clarksburg,144
+2018-09-05,Happy Canyon of Santa Barbara,24
+2018-09-05,Los Carneros,62.8
+2018-09-05,Rutherford,6.65
+2018-09-05,Santa Maria Valley,144
+2018-09-05,St. Helena,14
+2018-09-06,Alexander Valley,22.5
+2018-09-06,Calistoga,58
+2018-09-06,Clarksburg,48
+2018-09-06,Happy Canyon of Santa Barbara,24.5
+2018-09-06,Los Carneros,55.45
+2018-09-06,Santa Maria Valley,96
+2018-09-06,Stags Leap District,20
+2018-09-07,Calistoga,5
+2018-09-07,Happy Canyon of Santa Barbara,40
+2018-09-07,Los Carneros,11
+2018-09-07,Paicines,96
+2018-09-07,Santa Maria Valley,21
+2018-09-07,Sonoma Valley,7
+2018-09-07,Stags Leap District,20
+2018-09-08,Los Carneros,17.8
+2018-09-08,Oak Knoll District of Napa Valley,25
+2018-09-10,Alexander Valley,54.2
+2018-09-10,Happy Canyon of Santa Barbara,48
+2018-09-10,Jahant,144
+2018-09-10,Knights Valley,0
+2018-09-10,Los Carneros,62.075
+2018-09-10,Oak Knoll District of Napa Valley,53
+2018-09-10,Paso Robles,16
+2018-09-10,Rutherford,15
+2018-09-10,San Lucas,134
+2018-09-10,Santa Maria Valley,144
+2018-09-10,Sonoma Valley,0.25
+2018-09-11,Alexander Valley,40
+2018-09-11,Happy Canyon of Santa Barbara,96
+2018-09-11,Jahant,96
+2018-09-11,Los Carneros,64.6
+2018-09-11,Oak Knoll District of Napa Valley,31
+2018-09-11,Paicines,96
+2018-09-11,Paso Robles,10
+2018-09-11,Rutherford,15
+2018-09-11,San Lucas,140
+2018-09-11,Santa Maria Valley,97
+2018-09-12,Alexander Valley,18.2
+2018-09-12,Clarksburg,144
+2018-09-12,Los Carneros,80.525
+2018-09-12,Oak Knoll District of Napa Valley,23
+2018-09-12,Paicines,144
+2018-09-12,Paso Robles,13
+2018-09-12,Rutherford,15
+2018-09-12,San Lucas,140
+2018-09-12,Santa Maria Valley,144
+2018-09-13,California Shenandoah Valley,80
+2018-09-13,Clarksburg,144
+2018-09-13,Jahant,72
+2018-09-13,Los Carneros,40.025
+2018-09-13,Mokelumne River,96
+2018-09-13,Oak Knoll District of Napa Valley,40
+2018-09-13,Paicines,96
+2018-09-13,Paso Robles,66
+2018-09-13,San Lucas,142
+2018-09-13,Santa Maria Valley,192
+2018-09-14,Clarksburg,144
+2018-09-14,Happy Canyon of Santa Barbara,48
+2018-09-14,Los Carneros,64.95
+2018-09-14,Mokelumne River,192
+2018-09-14,Oak Knoll District of Napa Valley,42
+2018-09-14,Paicines,72
+2018-09-14,Paso Robles,67.5
+2018-09-14,Rutherford,3.2
+2018-09-14,San Lucas,143
+2018-09-14,Santa Maria Valley,48
+2018-09-14,Sloughhouse,96
+2018-09-14,Sonoma Valley,6
+2018-09-14,St. Helena,6
+2018-09-14,Sta. Rita Hills,24.624
+2018-09-15,Los Carneros,112
+2018-09-17,Calistoga,12
+2018-09-17,Clarksburg,144
+2018-09-17,Clements Hills,120
+2018-09-17,Dry Creek Valley,12
+2018-09-17,Knights Valley,40
+2018-09-17,Los Carneros,126.125
+2018-09-17,Paicines,96
+2018-09-17,Paso Robles,34
+2018-09-17,Petaluma Gap,3.8
+2018-09-17,San Lucas,140
+2018-09-17,San Miguel District,48
+2018-09-17,Santa Maria Valley,216
+2018-09-17,Sloughhouse,96
+2018-09-17,Sta. Rita Hills,12.66
+2018-09-17,Stags Leap District,1
+2018-09-17,Yountville,14
+2018-09-18,Calistoga,10
+2018-09-18,Clarksburg,144
+2018-09-18,Clements Hills,96
+2018-09-18,Los Carneros,72.8
+2018-09-18,Oak Knoll District of Napa Valley,65
+2018-09-18,Paicines,144
+2018-09-18,Paso Robles,81
+2018-09-18,Russian River Valley,7
+2018-09-18,San Lucas,124
+2018-09-18,San Miguel District,32
+2018-09-18,Santa Maria Valley,232
+2018-09-18,Sloughhouse,96
+2018-09-18,Sonoma Valley,12
+2018-09-18,Sta. Rita Hills,2
+2018-09-18,Stags Leap District,24
+2018-09-19,Alexander Valley,6
+2018-09-19,Calistoga,6
+2018-09-19,Clarksburg,96
+2018-09-19,Happy Canyon of Santa Barbara,96
+2018-09-19,Los Carneros,62.95
+2018-09-19,Oakville,20
+2018-09-19,Paicines,144
+2018-09-19,Paso Robles,92
+2018-09-19,Petaluma Gap,3.5
+2018-09-19,Russian River Valley,11.2
+2018-09-19,Rutherford,7
+2018-09-19,San Lucas,144
+2018-09-19,Santa Maria Valley,96
+2018-09-20,Alexander Valley,8
+2018-09-20,Calistoga,23
+2018-09-20,Jahant,144
+2018-09-20,Los Carneros,147
+2018-09-20,Oakville,38
+2018-09-20,Paicines,144
+2018-09-20,Paso Robles,147
+2018-09-20,San Lucas,120
+2018-09-20,Santa Maria Valley,220
+2018-09-20,Sonoma Valley,11.2
+2018-09-20,Sta. Rita Hills,0
+2018-09-21,Alexander Valley,8
+2018-09-21,Dry Creek Valley,15.5
+2018-09-21,Happy Canyon of Santa Barbara,72
+2018-09-21,Los Carneros,100.25
+2018-09-21,Paicines,144
+2018-09-21,Paso Robles,96
+2018-09-21,Russian River Valley,6.3
+2018-09-21,Rutherford,13.5
+2018-09-21,San Lucas,163
+2018-09-21,Santa Maria Valley,144
+2018-09-22,Los Carneros,131.4
+2018-09-24,Alexander Valley,30
+2018-09-24,Calistoga,25
+2018-09-24,Happy Canyon of Santa Barbara,120
+2018-09-24,Lodi,96
+2018-09-24,Los Carneros,63.5
+2018-09-24,Mendocino,30
+2018-09-24,Oak Knoll District of Napa Valley,97
+2018-09-24,Paicines,120
+2018-09-24,Paso Robles,214
+2018-09-24,San Lucas,148
+2018-09-24,Santa Maria Valley,96
+2018-09-24,St. Helena,58.925
+2018-09-24,Sta. Rita Hills,0
+2018-09-25,Alexander Valley,34
+2018-09-25,Happy Canyon of Santa Barbara,240
+2018-09-25,Lodi,96
+2018-09-25,Los Carneros,92
+2018-09-25,Mendocino,72
+2018-09-25,Oak Knoll District of Napa Valley,110
+2018-09-25,Paicines,144
+2018-09-25,Paso Robles,207
+2018-09-25,Rutherford,7
+2018-09-25,San Lucas,144
+2018-09-26,Alexander Valley,41
+2018-09-26,California Shenandoah Valley,72
+2018-09-26,Calistoga,56
+2018-09-26,Clements Hills,48
+2018-09-26,Happy Canyon of Santa Barbara,216
+2018-09-26,Lodi,120
+2018-09-26,Los Carneros,155
+2018-09-26,Mendocino,50
+2018-09-26,Oak Knoll District of Napa Valley,40
+2018-09-26,Paicines,120
+2018-09-26,Paso Robles,95
+2018-09-26,Rutherford,32
+2018-09-26,San Lucas,145
+2018-09-26,Sta. Rita Hills,0
+2018-09-26,Stags Leap District,26
+2018-09-26,Yamhill-Carlton,2
+2018-09-27,Alexander Valley,81
+2018-09-27,Calistoga,55
+2018-09-27,Clarksburg,144
+2018-09-27,Diamond Mountain District,9
+2018-09-27,Dry Creek Valley,6
+2018-09-27,Los Carneros,173.5
+2018-09-27,Oak Knoll District of Napa Valley,89
+2018-09-27,Paicines,96
+2018-09-27,Paso Robles,124
+2018-09-27,Rutherford,18
+2018-09-27,San Lucas,144
+2018-09-27,Santa Maria Valley,216
+2018-09-27,Sta. Rita Hills,20
+2018-09-27,Yountville,10
+2018-09-28,Alexander Valley,49
+2018-09-28,Clarksburg,72
+2018-09-28,Knights Valley,46
+2018-09-28,Los Carneros,140
+2018-09-28,Napa Valley,15
+2018-09-28,Oak Knoll District of Napa Valley,30
+2018-09-28,Oakville,100
+2018-09-28,Paicines,96
+2018-09-28,Paso Robles,99
+2018-09-28,Petaluma Gap,3.3
+2018-09-28,Rutherford,58.2
+2018-09-28,San Lucas,144
+2018-09-28,Santa Maria Valley,156
+2018-09-28,Sonoma Valley,24
+2018-09-29,Alexander Valley,54
+2018-09-29,Los Carneros,117.1
+2018-09-29,Oak Knoll District of Napa Valley,32.5
+2018-09-29,Oakville,30
+2018-09-29,Petaluma Gap,5
+2018-09-29,Rutherford,48
+2018-09-29,Sonoma Valley,22.7
+2018-09-29,St. Helena,20
+2018-09-29,Stags Leap District,14
+2018-10-01,Alexander Valley,21.8
+2018-10-01,Calistoga,110
+2018-10-01,Clarksburg,44
+2018-10-01,Happy Canyon of Santa Barbara,336
+2018-10-01,Los Carneros,226.6
+2018-10-01,Paicines,288
+2018-10-01,Paso Robles,480
+2018-10-01,Rutherford,90
+2018-10-01,San Lucas,212
+2018-10-01,St. Helena,132
+2018-10-02,Clarksburg,166
+2018-10-02,Clements Hills,96
+2018-10-02,Happy Canyon of Santa Barbara,101
+2018-10-02,Los Carneros,22
+2018-10-02,Napa Valley,8
+2018-10-02,Paicines,96
+2018-10-02,Paso Robles,144
+2018-10-02,San Lucas,135
+2018-10-03,Calistoga,27
+2018-10-03,Clarksburg,72
+2018-10-03,Clements Hills,80
+2018-10-03,Los Carneros,119
+2018-10-03,Paicines,94
+2018-10-03,Paso Robles,144
+2018-10-03,San Lucas,144
+2018-10-03,San Miguel District,0
+2018-10-04,Alexander Valley,24.5
+2018-10-04,California Shenandoah Valley,72
+2018-10-04,Calistoga,202
+2018-10-04,Los Carneros,100.5
+2018-10-04,Mokelumne River,72
+2018-10-04,Moon Mountain District Sonoma County,18
+2018-10-04,Mt. Veeder,4
+2018-10-04,Paicines,94
+2018-10-04,Paso Robles,254
+2018-10-04,Rutherford,20.075
+2018-10-04,San Lucas,144
+2018-10-04,Santa Maria Valley,216
+2018-10-05,Alexander Valley,57.5
+2018-10-05,Calistoga,121
+2018-10-05,Happy Canyon of Santa Barbara,120
+2018-10-05,Knights Valley,16
+2018-10-05,Los Carneros,171.225
+2018-10-05,Mokelumne River,96
+2018-10-05,Paicines,96
+2018-10-05,Paso Robles,168
+2018-10-05,Rutherford,18
+2018-10-05,San Lucas,70
+2018-10-05,Santa Maria Valley,96
+2018-10-05,Sloughhouse,144
+2018-10-05,Sonoma Valley,8
+2018-10-05,St. Helena,15
+2018-10-05,Stags Leap District,8
+2018-10-05,Yountville,7
+2018-10-06,Alexander Valley,6
+2018-10-06,Calistoga,34
+2018-10-06,Dry Creek Valley,20
+2018-10-06,Los Carneros,112
+2018-10-06,Oakville,46.375
+2018-10-08,Alexander Valley,15.5
+2018-10-08,Calistoga,36
+2018-10-08,Howell Mountain,34
+2018-10-08,Knights Valley,24
+2018-10-08,Los Carneros,73.81
+2018-10-08,Mokelumne River,216
+2018-10-08,Moon Mountain District Sonoma County,5
+2018-10-08,Oak Knoll District of Napa Valley,53
+2018-10-08,Oakville,55
+2018-10-08,Paicines,72
+2018-10-08,Paso Robles,72
+2018-10-08,Rutherford,30
+2018-10-08,San Lucas,142
+2018-10-08,Santa Maria Valley,114
+2018-10-08,Sloughhouse,120
+2018-10-08,Sonoma Valley,15.4
+2018-10-09,Calistoga,47
+2018-10-09,Dry Creek Valley,15
+2018-10-09,Happy Canyon of Santa Barbara,96
+2018-10-09,Knights Valley,22
+2018-10-09,Los Carneros,104
+2018-10-09,Mokelumne River,144
+2018-10-09,Mt. Veeder,7
+2018-10-09,Napa Valley,10
+2018-10-09,Oak Knoll District of Napa Valley,84
+2018-10-09,Oakville,154.25
+2018-10-09,Paicines,72
+2018-10-09,Rutherford,33
+2018-10-09,San Lucas,142
+2018-10-10,Calistoga,25
+2018-10-10,Clarksburg,120
+2018-10-10,Happy Canyon of Santa Barbara,48
+2018-10-10,Knights Valley,57.5
+2018-10-10,Los Carneros,65
+2018-10-10,Mokelumne River,96
+2018-10-10,Mt. Veeder,4.5
+2018-10-10,Napa Valley,25
+2018-10-10,Oak Knoll District of Napa Valley,52
+2018-10-10,Oakville,124
+2018-10-10,Paicines,72
+2018-10-10,Paso Robles,94
+2018-10-10,Rutherford,8.75
+2018-10-10,San Lucas,142
+2018-10-10,San Miguel District,48
+2018-10-10,Sonoma Valley,10.809999999999999
+2018-10-10,St. Helena,105
+2018-10-10,Yountville,19.5
+2018-10-11,Alexander Valley,19
+2018-10-11,Calistoga,89.7
+2018-10-11,Coombsville,18
+2018-10-11,Diamond Mountain District,3
+2018-10-11,Howell Mountain,49.5
+2018-10-11,Knights Valley,46
+2018-10-11,Los Carneros,78
+2018-10-11,Napa Valley,32
+2018-10-11,Oak Knoll District of Napa Valley,53
+2018-10-11,Oakville,60
+2018-10-11,Paicines,72
+2018-10-11,Paso Robles,146
+2018-10-11,Rutherford,20.7
+2018-10-11,San Lucas,168
+2018-10-11,Sonoma Valley,13.649999999999999
+2018-10-11,St. Helena,22
+2018-10-12,Calistoga,89
+2018-10-12,Howell Mountain,10.8
+2018-10-12,Knights Valley,60
+2018-10-12,Los Carneros,58
+2018-10-12,Mokelumne River,110
+2018-10-12,Moon Mountain District Sonoma County,16
+2018-10-12,Napa Valley,13
+2018-10-12,Oak Knoll District of Napa Valley,46.5
+2018-10-12,Oakville,84
+2018-10-12,Paicines,102
+2018-10-12,Paso Robles,72
+2018-10-12,Rutherford,16
+2018-10-12,San Lucas,161
+2018-10-12,Yountville,57
+2018-10-13,Alexander Valley,34.5
+2018-10-13,Calistoga,43
+2018-10-13,Mt. Veeder,9
+2018-10-13,Napa Valley,8
+2018-10-13,Oakville,20
+2018-10-13,St. Helena,62
+2018-10-15,Calistoga,20
+2018-10-15,Clements Hills,100
+2018-10-15,Diamond Mountain District,8.7
+2018-10-15,Happy Canyon of Santa Barbara,72
+2018-10-15,Howell Mountain,6
+2018-10-15,Knights Valley,20.3
+2018-10-15,Mokelumne River,288
+2018-10-15,Moon Mountain District Sonoma County,10
+2018-10-15,Oak Knoll District of Napa Valley,41
+2018-10-15,Oakville,79
+2018-10-15,Paicines,72
+2018-10-15,Paso Robles,72
+2018-10-15,San Lucas,144
+2018-10-15,Santa Maria Valley,120
+2018-10-15,Spring Mountain District,4.5
+2018-10-15,St. Helena,15
+2018-10-15,Stags Leap District,30
+2018-10-15,Yountville,53.5
+2018-10-16,Calistoga,20
+2018-10-16,Clements Hills,85
+2018-10-16,Coombsville,48
+2018-10-16,Diamond Mountain District,6.6
+2018-10-16,Happy Canyon of Santa Barbara,96
+2018-10-16,Howell Mountain,16
+2018-10-16,Knights Valley,95
+2018-10-16,Los Carneros,67
+2018-10-16,Mokelumne River,284
+2018-10-16,Oak Knoll District of Napa Valley,71
+2018-10-16,Oakville,25
+2018-10-16,Paicines,72
+2018-10-16,Paso Robles,123
+2018-10-16,Rutherford,57.1
+2018-10-16,San Lucas,72
+2018-10-16,Santa Maria Valley,96
+2018-10-16,Yountville,8
+2018-10-17,Calistoga,41
+2018-10-17,Clements Hills,144
+2018-10-17,Knights Valley,31
+2018-10-17,Los Carneros,96
+2018-10-17,Moon Mountain District Sonoma County,24.5
+2018-10-17,Napa Valley,25
+2018-10-17,Oak Knoll District of Napa Valley,29
+2018-10-17,Oakville,19
+2018-10-17,Paicines,36
+2018-10-17,Paso Robles,123
+2018-10-17,Rutherford,46
+2018-10-17,San Lucas,140
+2018-10-17,Santa Maria Valley,48
+2018-10-17,Sonoma Valley,4.9
+2018-10-17,Spring Mountain District,18.3
+2018-10-17,Stags Leap District,10
+2018-10-17,Yountville,7
+2018-10-18,Alexander Valley,24
+2018-10-18,Atlas Peak,11
+2018-10-18,Calistoga,214.3
+2018-10-18,Clements Hills,96
+2018-10-18,Knights Valley,111
+2018-10-18,Mokelumne River,144
+2018-10-18,Napa Valley,22
+2018-10-18,Oakville,80
+2018-10-18,Paso Robles,186
+2018-10-18,Rutherford,47.5
+2018-10-18,San Lucas,72
+2018-10-18,St. Helena,22
+2018-10-18,Stags Leap District,14
+2018-10-18,Yountville,40
+2018-10-19,Alexander Valley,30
+2018-10-19,Atlas Peak,5
+2018-10-19,Calistoga,9.5
+2018-10-19,Clements Hills,96
+2018-10-19,Diamond Mountain District,27
+2018-10-19,Howell Mountain,18
+2018-10-19,Knights Valley,123.5
+2018-10-19,Mokelumne River,144
+2018-10-19,Mt. Veeder,2
+2018-10-19,Napa Valley,23
+2018-10-19,Oak Knoll District of Napa Valley,34
+2018-10-19,Oakville,0
+2018-10-19,Paso Robles,178
+2018-10-19,Rutherford,187.75
+2018-10-19,San Lucas,144
+2018-10-19,San Miguel District,48
+2018-10-19,St. Helena,28.5
+2018-10-19,Stags Leap District,36
+2018-10-19,Yountville,34
+2018-10-20,Alexander Valley,60
+2018-10-20,Diamond Mountain District,26.1
+2018-10-20,Knights Valley,133
+2018-10-20,Moon Mountain District Sonoma County,22
+2018-10-20,Napa Valley,50
+2018-10-20,Oakville,72.375
+2018-10-20,Rutherford,64
+2018-10-20,Sonoma Valley,25.2
+2018-10-20,St. Helena,97.8
+2018-10-22,Alexander Valley,63.5
+2018-10-22,Coombsville,52
+2018-10-22,Diamond Mountain District,23.225
+2018-10-22,Howell Mountain,28
+2018-10-22,Knights Valley,97
+2018-10-22,Los Carneros,71
+2018-10-22,Mokelumne River,72
+2018-10-22,Napa Valley,18
+2018-10-22,Oakville,98
+2018-10-22,Paso Robles,72
+2018-10-22,Rutherford,158.15
+2018-10-22,San Lucas,216
+2018-10-22,San Miguel District,48
+2018-10-22,Sonoma Valley,16.4
+2018-10-22,Yountville,7
+2018-10-23,Alexander Valley,4
+2018-10-23,Atlas Peak,5
+2018-10-23,Coombsville,25
+2018-10-23,Diamond Mountain District,21.5
+2018-10-23,Howell Mountain,26
+2018-10-23,Knights Valley,93
+2018-10-23,Lodi,144
+2018-10-23,Los Carneros,65
+2018-10-23,Mokelumne River,144
+2018-10-23,Moon Mountain District Sonoma County,12
+2018-10-23,Mt. Veeder,7.2
+2018-10-23,Napa Valley,16
+2018-10-23,Oakville,78.875
+2018-10-23,Paso Robles,137
+2018-10-23,Rutherford,92.74000000000001
+2018-10-23,San Lucas,144
+2018-10-23,San Miguel District,48
+2018-10-23,Sonoma Valley,45.9
+2018-10-23,St. Helena,22
+2018-10-23,Stags Leap District,25
+2018-10-24,Alexander Valley,10
+2018-10-24,Clements Hills,72
+2018-10-24,Diamond Mountain District,50
+2018-10-24,Howell Mountain,51
+2018-10-24,Knights Valley,154
+2018-10-24,Lodi,144
+2018-10-24,Mokelumne River,144
+2018-10-24,Napa Valley,27
+2018-10-24,Paso Robles,134
+2018-10-24,Rutherford,134.29500000000002
+2018-10-24,San Lucas,144
+2018-10-24,St. Helena,46
+2018-10-24,Yountville,20
+2018-10-25,Atlas Peak,6
+2018-10-25,Diamond Mountain District,10.5
+2018-10-25,Howell Mountain,44
+2018-10-25,Knights Valley,178
+2018-10-25,Napa Valley,17
+2018-10-25,Rutherford,16
+2018-10-25,St. Helena,5
+2018-10-25,Stags Leap District,27
+2018-10-25,Yountville,21
+2018-10-26,Calistoga,5
+2018-10-26,Clements Hills,60
+2018-10-26,Diamond Mountain District,67.75
+2018-10-26,Howell Mountain,35
+2018-10-26,Knights Valley,189
+2018-10-26,Los Carneros,7
+2018-10-26,Mokelumne River,72
+2018-10-26,Napa Valley,35
+2018-10-26,Oakville,18.17
+2018-10-26,Paso Robles,185
+2018-10-26,Rutherford,53
+2018-10-26,San Lucas,136
+2018-10-26,St. Helena,4
+2018-10-26,Stags Leap District,17
+2018-10-26,Yountville,12
+2018-10-27,Knights Valley,224
+2018-10-27,Mt. Veeder,3
+2018-10-27,Napa Valley,15
+2018-10-27,St. Helena,54
+2018-10-27,Yountville,9
+2018-10-29,Alta Mesa,144
+2018-10-29,Knights Valley,163
+2018-10-29,Paso Robles,147
+2018-10-29,Rutherford,91
+2018-10-29,San Lucas,144
+2018-10-29,Sonoma Valley,1
+2018-10-29,Spring Mountain District,30.5
+2018-10-30,Alta Mesa,144
+2018-10-30,Coombsville,40
+2018-10-30,Howell Mountain,15
+2018-10-30,Knights Valley,95.4
+2018-10-30,Paso Robles,152
+2018-10-30,Rutherford,143.7
+2018-10-30,San Lucas,144
+2018-10-30,Sonoma Valley,12.899999999999999
+2018-10-30,St. Helena,48
+2018-10-31,Alta Mesa,144
+2018-10-31,Howell Mountain,60
+2018-10-31,Knights Valley,163
+2018-10-31,Mt. Veeder,4
+2018-10-31,Oakville,40
+2018-10-31,Paso Robles,217
+2018-10-31,Rutherford,2
+2018-10-31,San Lucas,144
+2018-10-31,Sonoma Valley,11.8
+2018-10-31,Spring Mountain District,12.5
+2018-10-31,St. Helena,33.5
+2018-11-01,Alta Mesa,288
+2018-11-01,Howell Mountain,44
+2018-11-01,Knights Valley,358
+2018-11-01,Mokelumne River,358
+2018-11-01,Napa Valley,50
+2018-11-01,Oakville,16
+2018-11-01,Paso Robles,368
+2018-11-01,San Lucas,288
+2018-11-01,St. Helena,68
+2018-11-02,Alta Mesa,72
+2018-11-02,Atlas Peak,14
+2018-11-02,Knights Valley,224
+2018-11-02,Mokelumne River,96
+2018-11-02,Napa Valley,18
+2018-11-02,Paso Robles,58
+2018-11-02,Rutherford,11
+2018-11-02,San Lucas,213
+2018-11-02,Spring Mountain District,6
+2018-11-02,St. Helena,90
+2018-11-03,St. Helena,25
+2018-11-05,Alexander Valley,2.5
+2018-11-05,Paso Robles,123
+2018-11-05,San Lucas,216
+2018-11-05,St. Helena,26
+2018-11-06,Napa Valley,10
+2018-11-06,Paso Robles,72
+2018-11-06,San Lucas,216
+2018-11-07,Napa Valley,14
+2018-11-07,Paso Robles,134
+2018-11-07,Rutherford,9
+2018-11-07,San Lucas,215
+2018-11-08,San Lucas,198
+2018-11-09,Paso Robles,66
+2019-08-20,Los Carneros,16
+2019-08-21,Jahant,144
+2019-08-21,Mokelumne River,96
+2019-08-22,Jahant,144
+2019-08-22,Mokelumne River,96
+2019-08-23,Jahant,120
+2019-08-23,Mokelumne River,6
+2019-08-26,California Shenandoah Valley,240
+2019-08-26,Los Carneros,14.5
+2019-08-26,Yountville,79
+2019-08-27,California Shenandoah Valley,216
+2019-08-28,California Shenandoah Valley,288
+2019-08-29,California Shenandoah Valley,144
+2019-08-29,Mokelumne River,96
+2019-08-29,Santa Maria Valley,24
+2019-08-30,California Shenandoah Valley,144
+2019-08-30,Calistoga,56
+2019-08-30,Clarksburg,144
+2019-08-30,Clements Hills,96
+2019-08-30,Mokelumne River,48
+2019-08-30,Oakville,35
+2019-08-31,Calistoga,73
+2019-08-31,Oak Knoll District of Napa Valley,24
+2019-09-02,Borden Ranch,72
+2019-09-02,California Shenandoah Valley,528
+2019-09-02,Calistoga,24
+2019-09-02,Clements Hills,120
+2019-09-02,Los Carneros,5
+2019-09-02,Santa Maria Valley,48
+2019-09-03,Borden Ranch,72
+2019-09-03,California Shenandoah Valley,456
+2019-09-03,Calistoga,51
+2019-09-03,Oakville,41
+2019-09-03,Santa Maria Valley,120
+2019-09-04,Borden Ranch,72
+2019-09-04,California Shenandoah Valley,336
+2019-09-04,Calistoga,38
+2019-09-04,Clarksburg,144
+2019-09-04,Los Carneros,26
+2019-09-04,Oakville,48
+2019-09-04,Rutherford,7
+2019-09-04,Santa Maria Valley,120
+2019-09-04,Sonoma Valley,16.2
+2019-09-04,Sta. Rita Hills,20
+2019-09-05,Borden Ranch,216
+2019-09-05,California Shenandoah Valley,360
+2019-09-05,Calistoga,48
+2019-09-05,Clarksburg,144
+2019-09-05,Los Carneros,39.4
+2019-09-05,Oak Knoll District of Napa Valley,59
+2019-09-05,Rutherford,15.3
+2019-09-05,Santa Maria Valley,87.5
+2019-09-06,Alexander Valley,37.05
+2019-09-06,Borden Ranch,96
+2019-09-06,California Shenandoah Valley,240
+2019-09-06,Calistoga,44.5
+2019-09-06,Clarksburg,96
+2019-09-06,Los Carneros,8.200000000000001
+2019-09-06,Oak Knoll District of Napa Valley,53
+2019-09-06,San Lucas,68
+2019-09-06,Santa Maria Valley,82
+2019-09-07,Los Carneros,8
+2019-09-07,Oak Knoll District of Napa Valley,10
+2019-09-09,Alexander Valley,71.925
+2019-09-09,Clarksburg,240
+2019-09-09,Jahant,96
+2019-09-09,Los Carneros,22.5
+2019-09-09,Mokelumne River,96
+2019-09-09,Oak Knoll District of Napa Valley,66
+2019-09-09,Rutherford,25
+2019-09-09,Santa Maria Valley,133
+2019-09-09,St. Helena,37
+2019-09-09,Stags Leap District,3
+2019-09-10,Alexander Valley,48.125
+2019-09-10,Clarksburg,144
+2019-09-10,Jahant,144
+2019-09-10,Los Carneros,25.6
+2019-09-10,Oak Knoll District of Napa Valley,48
+2019-09-10,Santa Maria Valley,139
+2019-09-10,Stags Leap District,30
+2019-09-11,Clarksburg,288
+2019-09-11,Mendocino,25
+2019-09-11,Oak Knoll District of Napa Valley,10
+2019-09-11,Paicines,48
+2019-09-11,San Lucas,96
+2019-09-11,Santa Maria Valley,178
+2019-09-11,Sta. Rita Hills,47
+2019-09-12,Clarksburg,288
+2019-09-12,Los Carneros,52.4
+2019-09-12,Paicines,96
+2019-09-12,Paso Robles,35
+2019-09-12,Rutherford,17.3
+2019-09-12,San Lucas,72
+2019-09-12,Santa Maria Valley,180
+2019-09-12,Sloughhouse,144
+2019-09-12,Sonoma Valley,3
+2019-09-12,Sta. Rita Hills,19.375
+2019-09-12,Stags Leap District,2
+2019-09-13,Alexander Valley,20
+2019-09-13,Calistoga,25
+2019-09-13,Clarksburg,288
+2019-09-13,Los Carneros,96.725
+2019-09-13,Paicines,96
+2019-09-13,Russian River Valley,18.2
+2019-09-13,Rutherford,13
+2019-09-13,San Lucas,110
+2019-09-13,Santa Maria Valley,163.6
+2019-09-13,Sloughhouse,168
+2019-09-13,Sonoma Valley,4.7
+2019-09-13,Yountville,13.5
+2019-09-14,Los Carneros,145
+2019-09-14,Petaluma Gap,3.8
+2019-09-16,California Shenandoah Valley,144
+2019-09-16,Clarksburg,264
+2019-09-16,Jahant,75
+2019-09-16,Los Carneros,176.225
+2019-09-16,Oak Knoll District of Napa Valley,50.05
+2019-09-16,Paicines,96
+2019-09-16,Paso Robles,42
+2019-09-16,Russian River Valley,3
+2019-09-16,San Lucas,100
+2019-09-16,Santa Maria Valley,125.4
+2019-09-16,Sloughhouse,70
+2019-09-16,Stags Leap District,23
+2019-09-17,California Shenandoah Valley,156
+2019-09-17,Clarksburg,144
+2019-09-17,Los Carneros,161
+2019-09-17,Oakville,34
+2019-09-17,Paicines,96
+2019-09-17,Paso Robles,72
+2019-09-17,Russian River Valley,6.3
+2019-09-17,San Lucas,144
+2019-09-17,Santa Maria Valley,112.12
+2019-09-18,California Shenandoah Valley,48
+2019-09-18,Calistoga,32
+2019-09-18,Clarksburg,96
+2019-09-18,Los Carneros,182.575
+2019-09-18,Paicines,96
+2019-09-18,Paso Robles,63
+2019-09-18,Rutherford,12
+2019-09-18,San Lucas,134
+2019-09-18,Santa Maria Valley,130
+2019-09-18,Yountville,5
+2019-09-19,Calistoga,62.8
+2019-09-19,Happy Canyon of Santa Barbara,46
+2019-09-19,Jahant,0
+2019-09-19,Lodi,144
+2019-09-19,Los Carneros,190.6
+2019-09-19,Paicines,96
+2019-09-19,Paso Robles,14
+2019-09-19,San Lucas,208
+2019-09-19,San Miguel District,48
+2019-09-19,Santa Lucia Highlands,0
+2019-09-19,Santa Maria Valley,179
+2019-09-19,St. Helena,12
+2019-09-19,Sta. Rita Hills,23.57
+2019-09-20,Alexander Valley,6.8
+2019-09-20,Calistoga,25
+2019-09-20,Happy Canyon of Santa Barbara,47
+2019-09-20,Jahant,72
+2019-09-20,Lodi,168
+2019-09-20,Los Carneros,255.6
+2019-09-20,Paicines,48
+2019-09-20,San Lucas,111.8
+2019-09-20,San Miguel District,75
+2019-09-20,Santa Lucia Highlands,48
+2019-09-20,Santa Maria Valley,153
+2019-09-20,Sta. Rita Hills,10
+2019-09-21,Alexander Valley,30
+2019-09-21,Calistoga,42.3
+2019-09-21,Los Carneros,113
+2019-09-21,Oakville,48
+2019-09-21,Petaluma Gap,3.1
+2019-09-21,Rutherford,43.58
+2019-09-21,Sonoma Valley,58.4
+2019-09-23,Alexander Valley,33.5
+2019-09-23,California Shenandoah Valley,144
+2019-09-23,Calistoga,20
+2019-09-23,Clements Hills,48
+2019-09-23,Knights Valley,46
+2019-09-23,Los Carneros,88.8
+2019-09-23,Mendocino,72
+2019-09-23,Oak Knoll District of Napa Valley,67.5
+2019-09-23,Oakville,22
+2019-09-23,Paicines,96
+2019-09-23,Paso Robles,0
+2019-09-23,Russian River Valley,6.3
+2019-09-23,Rutherford,9.3
+2019-09-23,San Lucas,146
+2019-09-23,Santa Lucia Highlands,75
+2019-09-23,Santa Maria Valley,98
+2019-09-24,Calistoga,9
+2019-09-24,Clements Hills,96
+2019-09-24,Happy Canyon of Santa Barbara,48
+2019-09-24,Los Carneros,145.645
+2019-09-24,Mendocino,48
+2019-09-24,Oak Knoll District of Napa Valley,57
+2019-09-24,Oakville,35
+2019-09-24,Paicines,72
+2019-09-24,Paso Robles,59
+2019-09-24,San Lucas,188
+2019-09-24,Santa Lucia Highlands,144
+2019-09-24,Santa Maria Valley,154
+2019-09-24,Sonoma Valley,9
+2019-09-24,Yountville,55.8
+2019-09-25,Calistoga,12
+2019-09-25,Clements Hills,48
+2019-09-25,Happy Canyon of Santa Barbara,44
+2019-09-25,Los Carneros,123.5
+2019-09-25,Oakville,83
+2019-09-25,Paicines,96
+2019-09-25,Paso Robles,131
+2019-09-25,San Lucas,48
+2019-09-25,Santa Lucia Highlands,144
+2019-09-25,Santa Maria Valley,143
+2019-09-25,Yountville,55
+2019-09-26,Alexander Valley,30
+2019-09-26,Calistoga,75.7
+2019-09-26,Clements Hills,48
+2019-09-26,Happy Canyon of Santa Barbara,88
+2019-09-26,Los Carneros,174.05
+2019-09-26,Mokelumne River,216
+2019-09-26,Napa Valley,19
+2019-09-26,Oak Knoll District of Napa Valley,97
+2019-09-26,Oakville,44
+2019-09-26,Paicines,50
+2019-09-26,Paso Robles,108
+2019-09-26,San Lucas,96
+2019-09-26,Santa Lucia Highlands,144
+2019-09-26,Santa Maria Valley,170
+2019-09-26,Sonoma Valley,15
+2019-09-27,Alexander Valley,46
+2019-09-27,Calistoga,41.3
+2019-09-27,Clements Hills,0
+2019-09-27,Coombsville,10
+2019-09-27,Happy Canyon of Santa Barbara,88
+2019-09-27,Los Carneros,188.3
+2019-09-27,Mokelumne River,168
+2019-09-27,Oak Knoll District of Napa Valley,25
+2019-09-27,Oakville,124
+2019-09-27,Paicines,96
+2019-09-27,Paso Robles,148
+2019-09-27,Rutherford,16.137
+2019-09-27,San Lucas,120
+2019-09-27,Santa Lucia Highlands,0
+2019-09-27,Santa Maria Valley,156.5
+2019-09-27,St. Helena,15
+2019-09-27,Yamhill-Carlton,6
+2019-09-28,Alexander Valley,22
+2019-09-28,Calistoga,42
+2019-09-28,Dry Creek Valley,16
+2019-09-28,Los Carneros,167.35
+2019-09-28,Oak Knoll District of Napa Valley,64
+2019-09-28,Oakville,115
+2019-09-30,Alexander Valley,30
+2019-09-30,Calistoga,47.4
+2019-09-30,Clarksburg,120
+2019-09-30,Happy Canyon of Santa Barbara,132
+2019-09-30,Los Carneros,194
+2019-09-30,Mokelumne River,72
+2019-09-30,Napa Valley,15
+2019-09-30,Oak Knoll District of Napa Valley,65
+2019-09-30,Oakville,88.2
+2019-09-30,Paicines,92
+2019-09-30,Paso Robles,218
+2019-09-30,Rutherford,5.5
+2019-09-30,San Lucas,216
+2019-09-30,Santa Lucia Highlands,24
+2019-09-30,Santa Maria Valley,44
+2019-09-30,St. Helena,65
+2019-10-01,Alexander Valley,66.7
+2019-10-01,Big Valley District-Lake County,132
+2019-10-01,Calistoga,160
+2019-10-01,Clarksburg,240
+2019-10-01,Clements Hills,48
+2019-10-01,Coombsville,28
+2019-10-01,Diamond Mountain District,18
+2019-10-01,Happy Canyon of Santa Barbara,248.4
+2019-10-01,Knights Valley,82
+2019-10-01,Los Carneros,403.6
+2019-10-01,Oak Knoll District of Napa Valley,94
+2019-10-01,Oakville,40
+2019-10-01,Paicines,192
+2019-10-01,Paso Robles,572
+2019-10-01,Red Hills Lake County,80
+2019-10-01,Rutherford,48
+2019-10-01,San Lucas,480
+2019-10-01,Santa Lucia Highlands,336
+2019-10-01,Santa Maria Valley,88
+2019-10-01,St. Helena,44
+2019-10-01,Stags Leap District,36
+2019-10-02,Alexander Valley,77.6
+2019-10-02,Big Valley District-Lake County,44
+2019-10-02,Calistoga,52.5
+2019-10-02,Clements Hills,96
+2019-10-02,Dry Creek Valley,18
+2019-10-02,Happy Canyon of Santa Barbara,240
+2019-10-02,Los Carneros,79.5
+2019-10-02,Mokelumne River,144
+2019-10-02,Oak Knoll District of Napa Valley,107
+2019-10-02,Oakville,26.375
+2019-10-02,Paicines,120
+2019-10-02,Paso Robles,116
+2019-10-02,Red Hills Lake County,47
+2019-10-02,Rutherford,15.6
+2019-10-02,San Lucas,168
+2019-10-02,Santa Lucia Highlands,96
+2019-10-02,Santa Maria Valley,1
+2019-10-02,Sonoma Valley,9
+2019-10-02,Stags Leap District,15
+2019-10-02,Yountville,38
+2019-10-03,Alexander Valley,37
+2019-10-03,Big Valley District-Lake County,44
+2019-10-03,Happy Canyon of Santa Barbara,232
+2019-10-03,Knights Valley,18
+2019-10-03,Los Carneros,82.2
+2019-10-03,Mendocino,17
+2019-10-03,Mokelumne River,288
+2019-10-03,Mt. Veeder,7
+2019-10-03,Napa Valley,32
+2019-10-03,Oak Knoll District of Napa Valley,36
+2019-10-03,Oakville,83.6
+2019-10-03,Paicines,96
+2019-10-03,Paso Robles,123
+2019-10-03,Rutherford,115.005
+2019-10-03,San Lucas,216
+2019-10-03,Santa Lucia Highlands,96
+2019-10-03,Santa Maria Valley,10
+2019-10-03,St. Helena,21
+2019-10-03,Yountville,56.55
+2019-10-04,Alexander Valley,43
+2019-10-04,Calistoga,18.3
+2019-10-04,Happy Canyon of Santa Barbara,172
+2019-10-04,High Valley,56
+2019-10-04,Knights Valley,59
+2019-10-04,Los Carneros,149
+2019-10-04,Mokelumne River,144
+2019-10-04,Oak Knoll District of Napa Valley,60
+2019-10-04,Oakville,73.375
+2019-10-04,Paicines,72
+2019-10-04,Paso Robles,205
+2019-10-04,Petaluma Gap,3
+2019-10-04,San Lucas,252
+2019-10-04,Santa Lucia Highlands,96
+2019-10-04,Stags Leap District,30
+2019-10-04,Yountville,0
+2019-10-05,Alexander Valley,41.2
+2019-10-05,Knights Valley,69.15
+2019-10-05,Los Carneros,80
+2019-10-05,Moon Mountain District Sonoma County,19.5
+2019-10-05,Rutherford,23.915
+2019-10-07,Calistoga,22
+2019-10-07,Clements Hills,0
+2019-10-07,Coombsville,6
+2019-10-07,Happy Canyon of Santa Barbara,0
+2019-10-07,Los Carneros,72
+2019-10-07,Napa Valley,13.05
+2019-10-07,Oak Knoll District of Napa Valley,0
+2019-10-07,Oakville,37.7
+2019-10-07,Paicines,0
+2019-10-07,Paso Robles,0
+2019-10-07,Petaluma Gap,3
+2019-10-07,San Lucas,0
+2019-10-07,Sloughhouse,0
+2019-10-07,St. Helena,15
+2019-10-07,Stags Leap District,4
+2019-10-08,Calistoga,6
+2019-10-08,Clements Hills,0
+2019-10-08,Coombsville,0
+2019-10-08,Los Carneros,48
+2019-10-08,Mokelumne River,0
+2019-10-08,Napa Valley,0
+2019-10-08,Oakville,17.85
+2019-10-08,Paicines,0
+2019-10-08,Paso Robles,0
+2019-10-08,Rutherford,16.12
+2019-10-08,San Lucas,0
+2019-10-08,Sloughhouse,0
+2019-10-08,St. Helena,40
+2019-10-09,Calistoga,0
+2019-10-09,Clements Hills,0
+2019-10-09,Los Carneros,0
+2019-10-09,Mokelumne River,0
+2019-10-09,Napa Valley,0
+2019-10-09,Oak Knoll District of Napa Valley,0
+2019-10-09,Paicines,0
+2019-10-09,Paso Robles,0
+2019-10-09,Rutherford,27.75
+2019-10-09,San Lucas,0
+2019-10-09,San Miguel District,0
+2019-10-09,Sonoma Valley,8.3
+2019-10-09,St. Helena,16
+2019-10-10,Knights Valley,76
+2019-10-10,Mendocino,0
+2019-10-10,Mokelumne River,0
+2019-10-10,Moon Mountain District Sonoma County,14
+2019-10-10,Paicines,0
+2019-10-10,Paso Robles,48
+2019-10-10,San Lucas,0
+2019-10-10,San Miguel District,44
+2019-10-10,St. Helena,0
+2019-10-11,Atlas Peak,0
+2019-10-11,Clarksburg,0
+2019-10-11,Clements Hills,0
+2019-10-11,Mokelumne River,0
+2019-10-11,Napa Valley,0
+2019-10-11,Paso Robles,0
+2019-10-11,San Lucas,0
+2019-10-11,San Miguel District,0
+2019-10-11,St. Helena,0
+2019-10-11,Stags Leap District,0
+2019-10-12,Oak Knoll District of Napa Valley,0
+2019-10-12,Yountville,0
+2019-10-14,Clarksburg,0
+2019-10-14,Clements Hills,0
+2019-10-14,Lodi,0
+2019-10-14,Mokelumne River,0
+2019-10-14,Paso Robles,0
+2019-10-14,San Miguel District,0
+2019-10-15,Paso Robles,0
+2019-10-15,San Miguel District,0
+2019-10-16,Paso Robles,0
+2019-10-16,San Miguel District,0
+2019-10-17,Paso Robles,0
+2019-10-17,San Miguel District,0
+2019-10-18,Paso Robles,0
